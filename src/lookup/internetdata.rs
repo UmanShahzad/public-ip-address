@@ -130,13 +130,6 @@ mod tests {
   "is_tor": false,
   "is_relay": false,
   "is_anycast": true,
-  "is_carrier": false,
-  "is_satellite": false,
-  "is_ssh": false,
-  "is_smtp": false,
-  "is_web": true,
-  "is_dns_resolver": true,
-  "is_bittorrent": false,
   "location": {
     "continent": "OC",
     "continent_name": "Oceania",
